@@ -1,7 +1,7 @@
 ## 📦 การติดตั้ง
 
 ```lua
-local XDLuaUI = loadstring(game:HttpGet("[YOUR_RAW_URL_HERE](https://raw.githubusercontent.com/XDLua/UI/refs/heads/main/UI.lua)"))()
+local XDLuaUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/XDLua/UI/refs/heads/main/UI.lua"))()
 ```
 ---
 
