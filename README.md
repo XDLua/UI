@@ -302,10 +302,10 @@ local Theme = {
 ## 🐛 การแก้ปัญหา
 
 **GUI ไม่โชว์หลัง spawn ใหม่**
-→ ตั้งค่า `ResetOnSpawn = false` ไว้แล้ว ✅ ถ้ายังเป็น — ใส่ script ใน `StarterPlayerScripts`
+→ ตั้งค่า `ResetOnSpawn = false`
 
 **Callback error ไม่ทำให้ script หยุด**
-→ ทุก callback ใช้ `pcall()` แล้ว ดู output ใน developer console
+→ ทุก callback ใช้ `pcall()` แล้ว ดู output ใน console
 
 **Notification ไม่ขึ้น**
 → ต้องเรียก `CreateWindow()` ก่อนถึงจะเรียก `Notify()` ได้
