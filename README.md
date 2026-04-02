@@ -1,15 +1,8 @@
 ## 📦 การติดตั้ง
 
 ```lua
-local XDLuaUI = loadstring(game:HttpGet("YOUR_RAW_URL_HERE"))()
+local XDLuaUI = loadstring(game:HttpGet("[YOUR_RAW_URL_HERE](https://raw.githubusercontent.com/XDLua/UI/refs/heads/main/UI.lua)"))()
 ```
-
-หรือถ้าใช้ไฟล์ local:
-
-```lua
-local XDLuaUI = require(path.to.XDLuaUI)
-```
-
 ---
 
 ## 🚀 Quick Start
