@@ -1,30 +1,3 @@
-# XDLuaUI v2.0 — CRIMSON SCRIPT UI Library
-
-> UI Library สำหรับ Roblox Script Executor — สวยงาม เสถียร พร้อมใช้
-
----
-
-## ✨ สิ่งที่ใหม่ใน v2.0
-
-| ฟีเจอร์ | v1.x | v2.0 |
-|---|---|---|
-| Loading Screen | ✅ | ✅ ปรับปรุงใหม่ (Overlay + Logo) |
-| Notification System | ❌ | ✅ ใหม่ (4 ประเภท + Progress Bar) |
-| Minimize Window | ❌ | ✅ ใหม่ |
-| Close Animation | ❌ | ✅ ใหม่ |
-| Ripple Effect (Button) | ❌ | ✅ ใหม่ |
-| Slider Thumb | ❌ | ✅ ใหม่ |
-| Textbox Component | ❌ | ✅ ใหม่ |
-| Color Picker | ❌ | ✅ ใหม่ (H/S/V) |
-| Divider Component | ❌ | ✅ ใหม่ |
-| API Return ทุก Component | บางตัว | ✅ ทุกตัว |
-| Error Handling (pcall) | ❌ | ✅ ทุก callback |
-| Shadow ทุก Element | ❌ | ✅ |
-| Tab Scroll อัตโนมัติ | ✅ | ✅ ปรับปรุง |
-| Hover Animation | บางส่วน | ✅ ทุกตัว |
-
----
-
 ## 📦 การติดตั้ง
 
 ```lua
