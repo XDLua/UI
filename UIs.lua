@@ -1123,7 +1123,7 @@ function NovaUI:CreateWindow(config)
                 TextColor3 = Theme.TextPrimary,
                 TextSize = 13,
                 Font = Enum.Font.GothamBold,
-                LetterSpacing = 2,
+                --LetterSpacing = 2,
             }, BtnFrame)
 
             BtnFrame.MouseEnter:Connect(function()
